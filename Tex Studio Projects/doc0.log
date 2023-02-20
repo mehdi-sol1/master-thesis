@@ -1,0 +1,633 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.19)  20 FEB 2023 23:40
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./doc0.tex
+(doc0.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-09-28> (D:\Mik TEX\tex/latex/base\report.cls
+Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
+(D:\Mik TEX\tex/latex/base\size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(D:\Mik TEX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(D:\Mik TEX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(D:\Mik TEX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(D:\Mik TEX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count194
+\Gm@cntv=\count195
+\c@Gm@tempcnt=\count196
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks17
+
+(D:\Mik TEX\tex/latex/geometry\geometry.cfg))
+(D:\Mik TEX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\Mik TEX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\Mik TEX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(D:\Mik TEX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(D:\Mik TEX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+\stockwidth=\dimen147
+\stockheight=\dimen148
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+)
+(D:\Mik TEX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(D:\Mik TEX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(D:\Mik TEX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(D:\Mik TEX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box51
+\beforetitleunit=\skip49
+\aftertitleunit=\skip50
+\ttl@plus=\dimen151
+\ttl@minus=\dimen152
+\ttl@toksa=\toks18
+\titlewidth=\dimen153
+\titlewidthlast=\dimen154
+\titlewidthfirst=\dimen155
+)
+(D:\Mik TEX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count197
+\float@exts=\toks19
+\float@box=\box52
+\@float@everytoks=\toks20
+\@floatcapt=\box53
+) (D:\Mik TEX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(D:\Mik TEX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count198
+\l__pdf_internal_box=\box54
+) (doc0.aux
+
+LaTeX Warning: Label `fig:3layers' multiply defined.
+
+(chap120.aux) (document.aux))
+\openout1 = `doc0.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=556.47656pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
+* \topmargin=-13.87262pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(D:\Mik TEX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count199
+\scratchdimen=\dimen156
+\scratchbox=\box55
+\nofMPsegments=\count266
+\nofMParguments=\count267
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count268
+\MPscratchDim=\dimen157
+\MPnumerator=\count269
+\makeMPintoPDFobject=\count270
+\everyMPtoPDFconversion=\toks22
+) (D:\Mik TEX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(D:\Mik TEX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+)) (doc0.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
+)
+\tf@toc=\write3
+\openout3 = `doc0.toc'.
+
+ [1
+
+
+{C:/Users/DELL 7480/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (doc0.lo
+f)
+\tf@lof=\write4
+\openout4 = `doc0.lof'.
+
+ [2
+
+] (doc0.lot)
+\tf@lot=\write5
+\openout5 = `doc0.lot'.
+
+ [3
+
+]
+Chapter 1.
+<./images//iot.jpg, id=13, 1258.7025pt x 839.135pt>
+File: ./images//iot.jpg Graphic file (type jpg)
+<use ./images//iot.jpg>
+Package pdftex.def Info: ./images//iot.jpg  used on input line 29.
+(pdftex.def)             Requested size: 215.0023pt x 143.32968pt.
+<./images//three-layer-iot-architecture.png, id=14, 702.625pt x 602.25pt>
+File: ./images//three-layer-iot-architecture.png Graphic file (type png)
+<use ./images//three-layer-iot-architecture.png>
+Package pdftex.def Info: ./images//three-layer-iot-architecture.png  used on in
+put line 38.
+(pdftex.def)             Requested size: 258.00539pt x 221.1565pt.
+[4
+
+ <./images//iot.jpg>] [5 <./images//three-layer-iot-architecture.png>]
+<./images//network.png, id=23, 739.76375pt x 419.5675pt>
+File: ./images//network.png Graphic file (type png)
+<use ./images//network.png>
+Package pdftex.def Info: ./images//network.png  used on input line 60.
+(pdftex.def)             Requested size: 344.005pt x 195.10966pt.
+
+[6 <./images//network.png>]
+<./images//iot-protocoles.jpg, id=29, 1205.50375pt x 511.9125pt>
+File: ./images//iot-protocoles.jpg Graphic file (type jpg)
+<use ./images//iot-protocoles.jpg>
+Package pdftex.def Info: ./images//iot-protocoles.jpg  used on input line 73.
+(pdftex.def)             Requested size: 430.00462pt x 182.59334pt.
+<./images//network-protocol.jpg, id=30, 752.8125pt x 501.875pt>
+File: ./images//network-protocol.jpg Graphic file (type jpg)
+<use ./images//network-protocol.jpg>
+Package pdftex.def Info: ./images//network-protocol.jpg  used on input line 81.
+
+(pdftex.def)             Requested size: 301.00192pt x 200.66986pt.
+ [7 <./images//iot-protocoles.jpg>] [8 <./images//network-protocol.jpg>]
+<./images//coap.png, id=38, 1773.62625pt x 1003.75pt>
+File: ./images//coap.png Graphic file (type png)
+<use ./images//coap.png>
+Package pdftex.def Info: ./images//coap.png  used on input line 97.
+(pdftex.def)             Requested size: 430.00462pt x 243.35547pt.
+ [9 <./images//coap.png (PNG copy)>]
+<./images//ss.png, id=42, 428.60126pt x 428.60126pt>
+File: ./images//ss.png Graphic file (type png)
+<use ./images//ss.png>
+Package pdftex.def Info: ./images//ss.png  used on input line 115.
+(pdftex.def)             Requested size: 258.00539pt x 258.00638pt.
+ [10] [11 <./images//ss.png>] [12]
+\openout2 = `chap120.aux'.
+
+ (chap120.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--7
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+<images chap1/rfidsys.png, id=53, 648.92438pt x 378.66469pt>
+File: images chap1/rfidsys.png Graphic file (type png)
+<use images chap1/rfidsys.png>
+Package pdftex.def Info: images chap1/rfidsys.png  used on input line 20.
+(pdftex.def)             Requested size: 344.00749pt x 166.9423pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+[13
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+<images chap1/r.jpg, id=58, 1204.5pt x 1204.5pt>
+File: images chap1/r.jpg Graphic file (type jpg)
+<use images chap1/r.jpg>
+Package pdftex.def Info: images chap1/r.jpg  used on input line 47.
+(pdftex.def)             Requested size: 344.00285pt x 166.93796pt.
+[14 <./images chap1/rfidsys.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 66--68
+
+ []
+
+[15 <./images chap1/r.jpg>]
+<images chap1/rfidpa.png, id=65, 344.7279pt x 157.5486pt>
+File: images chap1/rfidpa.png Graphic file (type png)
+<use images chap1/rfidpa.png>
+Package pdftex.def Info: images chap1/rfidpa.png  used on input line 77.
+(pdftex.def)             Requested size: 344.01167pt x 139.11917pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--83
+
+ []
+
+<images chap1/rfidfreqs.png, id=66, 1070.19826pt x 673.3155pt>
+File: images chap1/rfidfreqs.png Graphic file (type png)
+<use images chap1/rfidfreqs.png>
+Package pdftex.def Info: images chap1/rfidfreqs.png  used on input line 92.
+(pdftex.def)             Requested size: 387.00204pt x 166.94147pt.
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+[]\OT1/cmr/m/n/12 Frequency
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+[]\OT1/cmr/m/n/12 Read
+ []
+
+
+Overfull \hbox (3.69415pt too wide) in paragraph at lines 102--102
+\OT1/cmr/m/n/12 Range| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+[]\OT1/cmr/m/n/12 Existing
+ []
+
+
+Underfull \hbox (badness 3623) in paragraph at lines 102--102
+[]\OT1/cmr/m/n/12 Application At The
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+[]\OT1/cmr/m/n/12 LF (Pas-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+[]\OT1/cmr/m/n/12 125 khZ
+ []
+
+
+Overfull \hbox (1.24834pt too wide) in paragraph at lines 103--103
+[]\OT1/cmr/m/n/12 about
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+[]\OT1/cmr/m/n/12 Magnetic Near
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]\OT1/cmr/m/n/12 11784/85,
+ []
+
+
+Underfull \hbox (badness 5802) in paragraph at lines 104--104
+\OT1/cmr/m/n/12 ac-cess, an-i-mal tag-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
+[]\OT1/cmr/m/n/12 HF (Pas-
+ []
+
+
+Overfull \hbox (1.24834pt too wide) in paragraph at lines 105--105
+[]\OT1/cmr/m/n/12 about
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
+[]\OT1/cmr/m/n/12 Magnetic Near
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
+[]\OT1/cmr/m/n/12 18000-3.1,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
+\OT1/cmr/m/n/12 15693,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
+\OT1/cmr/m/n/12 14443A,
+ []
+
+
+Underfull \hbox (badness 2409) in paragraph at lines 105--105
+[]\OT1/cmr/m/n/12 Small item man-age-
+ []
+
+
+Underfull \hbox (badness 2503) in paragraph at lines 105--105
+\OT1/cmr/m/n/12 ment, sup-ply chain,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--108
+[]\OT1/cmr/m/n/12 900 MHz
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--108
+\OT1/cmr/m/n/12 902{928
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--108
+\OT1/cmr/m/n/12 MHz US
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--108
+\OT1/cmr/m/n/12 868{871
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--108
+\OT1/cmr/m/n/12 MHz
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--108
+\OT1/cmr/m/n/12 Eu-rope
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--108
+\OT1/cmr/m/n/12 950{956
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+[]\OT1/cmr/m/n/12 in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+\OT1/cmr/m/n/12 range
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+\OT1/cmr/m/n/12 2{20
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+[]\OT1/cmr/m/n/12 Electromagnetic
+ []
+
+
+Underfull \hbox (badness 6792) in paragraph at lines 109--109
+[]\OT1/cmr/m/n/12 Transportation ve-hi-
+ []
+
+
+Underfull \hbox (badness 5374) in paragraph at lines 109--109
+\OT1/cmr/m/n/12 cle ID, ac-cess, se-
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 109--109
+\OT1/cmr/m/n/12 cu-rity, sup-ply chain,
+ []
+
+
+Underfull \hbox (badness 5878) in paragraph at lines 109--109
+\OT1/cmr/m/n/12 large item man-age-
+ []
+
+
+Overfull \hbox (1.905pt too wide) in paragraph at lines 110--110
+[]\OT1/cmr/m/n/12 Microwaves
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+\OT1/cmr/m/n/12 (Ac-tive
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+[]\OT1/cmr/m/n/12 2.4 GHz
+ []
+
+
+Overfull \hbox (1.24834pt too wide) in paragraph at lines 110--110
+[]\OT1/cmr/m/n/12 about
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+[]\OT1/cmr/m/n/12 Electromagnetic
+ []
+
+
+Underfull \hbox (badness 6792) in paragraph at lines 110--110
+[]\OT1/cmr/m/n/12 Transportation ve-hi-
+ []
+
+
+Overfull \hbox (54.56029pt too wide) in paragraph at lines 100--113
+ [][] 
+ []
+
+[17 <./images chap1/rfidpa.png> <./images chap1/rfidfreqs.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+
+ []
+
+[18] [19]
+<images chap1/rspa.png, id=82, 414.348pt x 226.446pt>
+File: images chap1/rspa.png Graphic file (type png)
+<use images chap1/rspa.png>
+Package pdftex.def Info: images chap1/rspa.png  used on input line 158.
+(pdftex.def)             Requested size: 300.9984pt x 166.94891pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[20] [21 <./images chap1/rspa.png>]) [22]
+\openout2 = `document.aux'.
+
+ (document.tex [23
+
+
+
+] [24] [25] [26]
+<images chap1/cnnimage.png, id=106, 855.195pt x 322.20375pt>
+File: images chap1/cnnimage.png Graphic file (type png)
+<use images chap1/cnnimage.png>
+Package pdftex.def Info: images chap1/cnnimage.png  used on input line 85.
+(pdftex.def)             Requested size: 344.005pt x 129.60684pt.
+
+[27] [28 <./images chap1/cnnimage.png>]
+<images chap1/methods.png, id=114, 903.375pt x 397.485pt>
+File: images chap1/methods.png Graphic file (type png)
+<use images chap1/methods.png>
+Package pdftex.def Info: images chap1/methods.png  used on input line 113.
+(pdftex.def)             Requested size: 344.005pt x 151.36125pt.
+) [29 <./images chap1/methods.png>]
+(doc0.bbl
+Underfull \hbox (badness 2556) in paragraph at lines 9--15
+[]\OT1/cmr/m/n/12 GlobalSign.  What is the in-ter-net of things (iot) and how d
+oes it
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--30
+[]\OT1/cmr/m/n/12 netburner.  Ar-chi-tec-tures in the iot civ-i-liza-tion.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--30
+\OT1/cmr/m/n/12 https://www.netburner.com/learn/architectural-frameworks-in-the
+-iot-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--36
+[]\OT1/cmr/m/n/12 sustainablewebdesign.  Cal-cu-lat-ing dig-i-tal emis-sions.
+ []
+
+
+Underfull \hbox (badness 4779) in paragraph at lines 32--36
+\OT1/cmr/m/n/12 https://sustainablewebdesign.org/calculating-digital-emissions/
+, n.d.  Ac-
+ []
+
+[30
+
+
+
+] [31] [32] [33]) [34] (doc0.aux (chap120.aux) (document.aux))
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3170 strings out of 475385
+ 49577 string characters out of 2792805
+ 409039 words of memory out of 3000000
+ 24511 multiletter control sequences out of 15000+600000
+ 474972 words of font info for 47 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,11n,62p,980b,292s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\DELL 7480\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
+tcrm1200.pk><D:/Mik TEX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Mik TEX/f
+onts/type1/public/amsfonts/cm/cmr12.pfb><D:/Mik TEX/fonts/type1/public/amsfonts
+/cm/cmti12.pfb><D:/Mik TEX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on doc0.pdf (34 pages, 1475703 bytes).
+PDF statistics:
+ 158 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+

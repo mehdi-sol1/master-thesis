@@ -1,0 +1,11 @@
+\contentsline {chapter}{\numberline {1}Generality}{2}{}%
+\contentsline {section}{\numberline {1.1}Internet of Things Technology (IoT) }{2}{}%
+\contentsline {subsection}{\numberline {1.1.1}Definition}{2}{}%
+\contentsline {subsection}{\numberline {1.1.2}Architectures}{2}{}%
+\contentsline {subsubsection}{\numberline {1.1.2.1}Perception Layer}{2}{}%
+\contentsline {subsubsection}{\numberline {1.1.2.2}Transmission (Network) Layer}{4}{}%
+\contentsline {subsubsection}{\numberline {1.1.2.3}Application Layer}{5}{}%
+\contentsline {subsection}{\numberline {1.1.3}Protocoles}{5}{}%
+\contentsline {subsubsection}{\numberline {1.1.3.1}IoT Network Protocols}{5}{}%
+\contentsline {subsubsection}{\numberline {1.1.3.2}IoT Data Protocols}{7}{}%
+\contentsline {subsection}{\numberline {1.1.4}Applications}{9}{}%

@@ -1,0 +1,60 @@
+\contentsline {chapter}{\numberline {1}Generality}{4}{}%
+\contentsline {section}{\numberline {1.1}Internet of Things Technology (IoT) }{4}{}%
+\contentsline {subsection}{\numberline {1.1.1}Definition}{4}{}%
+\contentsline {subsection}{\numberline {1.1.2}Architectures}{5}{}%
+\contentsline {subsubsection}{\numberline {1.1.2.1}Perception Layer}{5}{}%
+\contentsline {subsubsection}{\numberline {1.1.2.2}Transmission (Network) Layer}{6}{}%
+\contentsline {subsubsection}{\numberline {1.1.2.3}Application Layer}{7}{}%
+\contentsline {subsection}{\numberline {1.1.3}Protocoles}{7}{}%
+\contentsline {subsubsection}{\numberline {1.1.3.1}IoT Network Protocols}{8}{}%
+\contentsline {subsubsection}{\numberline {1.1.3.2}IoT Data Protocols}{9}{}%
+\contentsline {subsection}{\numberline {1.1.4}Applications}{11}{}%
+\contentsline {section}{\numberline {1.2}Adjacent technologies}{13}{}%
+\contentsline {subsection}{\numberline {1.2.1}RFID Radio Frequency IDentification Technology}{13}{}%
+\contentsline {subsubsection}{\numberline {1.2.1.1}Definition}{13}{}%
+\contentsline {subsubsection}{\numberline {1.2.1.2}RFID Systems Structure And Main Components}{13}{}%
+\contentsline {subsubsection}{\numberline {1.2.1.3}RFID Work Concept}{14}{}%
+\contentsline {subsubsection}{\numberline {1.2.1.4}RFID System Classification :}{16}{}%
+\contentsline {subsection}{\numberline {1.2.2}Remote Sensing Technology}{18}{}%
+\contentsline {subsubsection}{\numberline {1.2.2.1}Definition}{18}{}%
+\contentsline {subsubsection}{\numberline {1.2.2.2}Work Concept}{19}{}%
+\contentsline {subsubsection}{\numberline {1.2.2.3}Types Of Remote Sensing Systems}{19}{}%
+\contentsline {subsubsection}{\numberline {1.2.2.4}Types Of Sensors In Remote Sensing Systems}{19}{}%
+\contentsline {subsubsection}{\numberline {1.2.2.5}Integration With IoT:}{20}{}%
+\contentsline {subsubsection}{\numberline {1.2.2.6}Remote Sensing Applications}{21}{}%
+\contentsline {section}{\numberline {1.3}Artificial Intelligence}{23}{}%
+\contentsline {subsection}{\numberline {1.3.1}Definition:}{23}{}%
+\contentsline {subsection}{\numberline {1.3.2}Applications of Artificial Intelligence:}{23}{}%
+\contentsline {paragraph}{\numberline {1.3.2.0.1}Natural language processing (NLP):}{23}{}%
+\contentsline {paragraph}{\numberline {1.3.2.0.2}Image recognition and computer vision:}{23}{}%
+\contentsline {paragraph}{\numberline {1.3.2.0.3}Predictive Analytic:}{23}{}%
+\contentsline {section}{\numberline {1.4}Machine Learning}{23}{}%
+\contentsline {subsection}{\numberline {1.4.1}Definitions:}{23}{}%
+\contentsline {paragraph}{\numberline {1.4.1.0.1}Definition 1:}{23}{}%
+\contentsline {paragraph}{\numberline {1.4.1.0.2}Definition 2:}{24}{}%
+\contentsline {subsection}{\numberline {1.4.2}Features of machine Learning}{24}{}%
+\contentsline {paragraph}{\numberline {1.4.2.0.1}Automation:}{24}{}%
+\contentsline {paragraph}{\numberline {1.4.2.0.2}Adaptivity:}{24}{}%
+\contentsline {paragraph}{\numberline {1.4.2.0.3}Generalization:}{24}{}%
+\contentsline {paragraph}{\numberline {1.4.2.0.4}Interactivity: }{25}{}%
+\contentsline {paragraph}{\numberline {1.4.2.0.5}Scalability: }{25}{}%
+\contentsline {paragraph}{\numberline {1.4.2.0.6}Nonlinearity: }{25}{}%
+\contentsline {section}{\numberline {1.5}Deep Learning}{26}{}%
+\contentsline {subsection}{\numberline {1.5.1}Definitions}{26}{}%
+\contentsline {paragraph}{\numberline {1.5.1.0.1}Definition 1:}{26}{}%
+\contentsline {paragraph}{\numberline {1.5.1.0.2}Definition 2:}{26}{}%
+\contentsline {subsection}{\numberline {1.5.2}Applications :}{26}{}%
+\contentsline {paragraph}{\numberline {1.5.2.0.1}Image Recognition :}{26}{}%
+\contentsline {paragraph}{\numberline {1.5.2.0.2}Natural Language Processing (NLP):}{26}{}%
+\contentsline {paragraph}{\numberline {1.5.2.0.3}Speech Recognition: }{27}{}%
+\contentsline {paragraph}{\numberline {1.5.2.0.4}Autonomous Systems:}{27}{}%
+\contentsline {section}{\numberline {1.6}Model Learning Methods and CNN}{27}{}%
+\contentsline {subsection}{\numberline {1.6.1}CNN Definition :}{27}{}%
+\contentsline {subsection}{\numberline {1.6.2}how CNN Works:}{27}{}%
+\contentsline {subsection}{\numberline {1.6.3}Learning Methods: }{28}{}%
+\contentsline {paragraph}{\numberline {1.6.3.0.1}Supervised Learning}{28}{}%
+\contentsline {paragraph}{\numberline {1.6.3.0.2}Unsupervised Learning}{28}{}%
+\contentsline {paragraph}{\numberline {1.6.3.0.3}Reinforcement Learning}{28}{}%
+\contentsline {paragraph}{\numberline {1.6.3.0.4}semi-supervised Learning}{29}{}%
+\contentsline {paragraph}{\numberline {1.6.3.0.5}active learning}{29}{}%
+\contentsline {paragraph}{\numberline {1.6.3.0.6}transfer learning.}{29}{}%

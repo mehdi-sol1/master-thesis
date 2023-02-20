@@ -1,0 +1,132 @@
+\documentclass[12pt]{report}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{float} 
+\usepackage{url}
+
+\setcounter{secnumdepth}{4}
+\graphicspath{ {./images/} }
+
+\begin{document}
+
+	
+	\tableofcontents
+	\listoffigures
+	\listoftables
+	
+	
+	\chapter{Generality}
+	\section{Internet of Things Technology (IoT) }
+	\subsection{Definition}
+	
+IoT, or Internet of Things, is a system of interconnected physical devices, vehicles, buildings, and other objects that have been embedded with sensors, software, and network connectivity to collect and exchange data.
+IoT technology provides real-time data for monitoring and controlling processes and functions, with potential to revolutionize industries like manufacturing, healthcare, transportation, and energy.
+The implementation of IoT poses challenges such as heterogeneity, complexity, poor interoperability, resource constraints, and privacy concerns, which must be addressed to fully realize the benefits of this technology.\cite{dai2019blockchain}
+	\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.5\textwidth]{iot.jpg}
+	\caption{A sample image of IoT devices\cite{globalsign-iot}.}
+	\label{fig:iot}
+\end{figure}
+
+	\subsection{Architectures}
+	The Internet of Things (IoT) is a technology that includes three main layers the Perception Layer, Transmission Layer and Application Layer.\cite{gupta2020overview}
+		\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.6\textwidth]{three-layer-iot-architecture}
+		\caption{The fundamental Three Layer IoT Architecture
+			\cite{netburner}.}
+		\label{fig:3layers}
+	\end{figure}
+	\subsubsection{Perception Layer}
+	
+The Perception Layer is the lowest layer in the IoT architecture, sometimes called the Device, Sensory, or Recognition Layer. It is responsible for sensing, identifying, and communicating with the physical world in a digital format. This layer captures data with little human intervention.
+The Perception Layer of the IoT architecture consists of the Perception Nodes and the Perception Network.
+	\subsubsection*{Perception Nodes}
+	The Perception Nodes refer to the physical devices such as sensors, actuators, and controllers that form a network to collect data and control objects. This network can be established through various technologies, including RFID readers, QR code or Barcode readers, GPS devices, Bluetooth devices, and various sensors. The Perception Nodes identify objects, collect data from the environment, and control objects. 
+	\subsubsection*{Perception Networks}
+The Perception Network communicates with the Transmission Network, securely transmitting data collected by the Perception Nodes to gateways for further transmission and sending control signals to controller devices through wired or wireless communication mediums.
+	\subsubsection{Transmission (Network) Layer}
+	The Transmission Layer is an important part of the IoT architecture that sits between the Perception and Application Layers. It's responsible for integrating various networks, technologies, and protocols to transmit data from Perception Nodes to higher level decision-making units. The data is transferred through wired or wireless communication channels, and the layer provides functionalities for network management. The Transmission Layer is also responsible for providing necessary support for analyzing, encoding, aggregating and data mining. It can be divided into three sub-layers below :
+	\begin{itemize}
+		\item Access Network
+		\item Core Network
+		\item Local and Wide Area Network
+	\end{itemize}
+	\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.8\textwidth]{network}
+	\caption{illustration showing a network system diagram
+		\cite{sustainablewebdesign}.}
+	\label{fig:networklayer}
+\end{figure}
+	\subsubsection{Application Layer}
+	The Application Layer is the highest layer of the IoT architecture, visible to the end user. Its purpose is to manage and provide applications globally based on the information collected by the Perception Layer, which is processed by the Information Processing Unit. This layer provides access to personalized services for end-users over the network through the use of various handheld devices and terminal equipment. It can be divided into two sub-layers: Application Support Layer and IoT Applications.\\
+	 The Application Support Layer is located just above the Transmission Layer, responsible for performing intelligent computations and processing over data. It performs data recognition and filtration to categorize it as valid or invalid, and utilizes middleware, Cloud Computing, and Service Support Platform to provide support services for the applications
+	
+	\subsection{Protocoles}
+	IoT protocols are a set of rules that allow electronic devices to exchange and transmit data with each other and the internet. These protocols can be classified into two categories: IoT network protocols and IoT data protocols. Network protocols help connect IoT devices with other edge devices or the internet, while data protocols focus on exchanging information, each category has its own set of protocols that come with unique features, which we will examine in the following section.\cite{particleIoT}
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=1\textwidth]{iot-protocoles}
+		\caption{IoT Protocols
+			\cite{netburner}.}
+		\label{fig:2protocoles}
+	\end{figure}
+	\subsubsection{IoT Network Protocols}
+	\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.7\textwidth]{network-protocol}
+	\caption{The IoT Network Protocols
+		\cite{iotdesignpro}.}
+	\label{fig:NetworkProtocols}
+\end{figure}
+	\subsubsection*{Wi-Fi}
+	Wi-Fi, defined by the IEEE 802.11 standard, is a widely used wireless LAN protocol for transmitting large volumes of data over reasonable distances. Low-power IoT devices avoid it due to high power consumption.
+	\subsubsection*{Bluetooth}
+	Bluetooth is a short-range wireless technology standard for exchanging data between devices over short distances. It's used in IoT to connect small, battery-powered sensors to gateways or other smart devices. With limited transmission power of 2.5 milliwatts, it has a short range of up to 10 metres.
+	\subsubsection*{ZigBee}
+	ZigBee is a wireless network technology used in home or building automation settings. It's low-cost, low-power and reliable, and supports multiple network topologies. ZigBee devices combine application, logical, and physical types. The standard was ratified in the early 2000s.\cite{inproceedings}
+	\subsubsection*{LoRaWAN}
+	The LoRaWAN is a Low Power, Wide Area (LPWA) protocol designed to attach battery-powered gadgets to the net in regional, countrywide or international networks. It addresses key IoT requirements like secure two-way communication, mobility, and localization services.\cite{lorawanSpec}
+	\subsubsection {IoT Data Protocols}
+		\begin{figure}[H]
+		\centering
+		\includegraphics[width=1\textwidth]{coap}
+		\caption{Some data protocols for IoT 
+			\cite{daviteq}.}
+		\label{fig:3layers}
+	\end{figure}
+		\subsubsection*{MQTT}
+The Message Queue Telemetry Transport (MQTT) protocol is a lightweight, open, and simple client-server messaging transport designed for easy implementation. It uses a publish/subscribe message pattern that allows for one-to-many message distribution and is agnostic to the content of the payload\cite{7446846}. The protocol offers three levels of message delivery quality of service, allowing for greater control over network traffic. MQTT is an excellent fit for IoT communication, requiring minimal memory and processing power. Additionally, the protocol is designed for reliability and scalability, with Transport Layer Security enabling security and adaptive connectivity.\cite{particleIoT}
+
+			\subsubsection*{CoAP}
+			Constrained Application Protocol (CoAP) is a specialized web transfer protocol designed for Machine-to-Machine (M2M) applications, such as smart city and building automation, with constrained nodes and networks.  CoAP enables resource-constrained devices to communicate with the wider Internet using lightweight packets, thereby reducing network congestion, saving battery power and storage space, and improving the IoT lifecycle.\cite{particleIoT}  CoAP's request and response interaction model between application end points, built-in discovery services, and support for key Web concepts such as URIs and Internet media types make it an ideal protocol for low-power, low-bandwidth network connectivity.  CoAP is designed to integrate seamlessly with HTTP while meeting specialized requirements such as multicast support and simplicity for constrained environments, with a high packet error rate and typical throughput of 10 kbps\cite{7446846}. 
+				\subsubsection*{AMQP}
+			Advanced Message Queuing Protocol (AMQP) is a protocol designed for corporate messaging, offering a range of features related to messaging such as reliable queuing, flexible routing, and transactions.\cite{8088251}AMQP is a binary protocol that requires a fixed 8-byte header and has a maximum message payload size determined by the broker or programming technology being used. The maximum size of the message payloads is generally small.\cite{7158101}Its use of TCP and TLS/SSL for security makes it a secure and trustworthy protocol for IoT applications\cite{han2015semantic}.Overall, AMQP plays a vital role in enabling communication and coordination among diverse devices in the IoT domain.
+		\subsubsection*{HTTP}
+		Hyper Text Transport Protocol (HTTP) is widely used as a web messaging protocol for Internet of Things (IoT) applications. Developed jointly by the IETF and W3C, it supports the request/response RESTful web architecture and uses Universal Resource Identifiers (URI) for data exchange\cite{8088251}. Servers send data through URIs, and clients receive data through specific URIs. HTTP is a text-based protocol that does not define the size of header and message payloads, which depends on the web server or programming technology. It uses TCP as the default transport protocol and TLS/SSL for security.Despite now no longer defining QoS, it gives numerous functions together with continual connections, request pipelining,and chunked transfer encoding that make it an ideal protocol for various IoT applications. 
+	\subsection{Applications}
+	The Internet of Things (IoT) allows us to access clever services in many areas of life. However, because the devices are so varied and interconnected, there can be challenges to overcome. These services include things like transportation, environmental monitoring, healthcare, weather and more.
+		\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.6\textwidth]{ss}
+		\caption{IoT Applications domains 
+			\cite{articleKorea}.}
+		\label{fig:iotapp}
+	\end{figure}
+	\subsubsection*{Smart homes} IoT devices such as smart thermostats, lighting systems, and security cameras can be controlled remotely using a smartphone or voice command, making our homes more comfortable, secure, and energy-efficient. 
+	\subsubsection*{Healthcare} IoT devices such as wearables and remote patient monitoring systems can track and transmit health data, allowing doctors and caregivers to monitor patients' health in real-time and provide timely interventions. 
+	\subsubsection*{Transportation} IoT-enabled vehicles can communicate with each other and with infrastructure, enabling safer and more efficient transportation, and helping to reduce traffic congestion. 
+	\subsubsection*{Agriculture} IoT sensors may be used to reveal soil moisture, temperature, and different environmentalfactors, allowing farmers to optimize crop yields and reduce water and fertilizer usage. 
+	\subsubsection*{Manufacturing} IoT-enabled sensors and analytics tools can be used to monitor machine performance and detect maintenance issues, reducing downtime and improving production efficiency. 
+
+
+			\include{chap120}
+		\include{document}
+
+	\bibliography{ref}
+	\bibliographystyle{plain}
+\end{document}

@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: document.aux
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+A level-1 auxiliary file: chap120.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: unsrt.bst
+Reallocating 'name_of_file' (item size: 1) to 4 items.
+Database file #1: ref.bib
+Repeated entry---line 193 of file ref.bib
+ : @article{lecun2015deep
+ :                       ,
+I'm skipping whatever remains of this entry
+Warning--empty journal in denis2020travaux
+Warning--empty journal in christopher1999foundations
+Warning--empty journal in shmueli2010explain
+Warning--empty journal in settles2009active
+You've used 42 entries,
+            1791 wiz_defined-function locations,
+            677 strings with 10095 characters,
+and the built_in function-call counts, 8461 in all, are:
+= -- 705
+> -- 411
+< -- 4
++ -- 156
+- -- 114
+* -- 524
+:= -- 1373
+add.period$ -- 122
+call.type$ -- 42
+change.case$ -- 34
+chr.to.int$ -- 0
+cite$ -- 46
+duplicate$ -- 377
+empty$ -- 861
+format.name$ -- 114
+if$ -- 1872
+int.to.chr$ -- 0
+int.to.str$ -- 42
+missing$ -- 43
+newline$ -- 208
+num.names$ -- 41
+pop$ -- 156
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 159
+stack$ -- 0
+substring$ -- 433
+swap$ -- 61
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 4
+while$ -- 77
+width$ -- 44
+write$ -- 433
+(There was 1 error message)

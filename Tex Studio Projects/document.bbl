@@ -1,0 +1,236 @@
+\begin{thebibliography}{10}
+
+\bibitem{duroc2018rfid}
+Yvan Duroc and Smail Tedjini.
+\newblock Rfid: A key technology for humanity.
+\newblock {\em Comptes Rendus Physique}, 19(1-2):64--71, 2018.
+
+\bibitem{rfidsys}
+SCHMIDT.
+\newblock Rfid solutions.
+\newblock
+  \url{http://www.schmidt.com.cn/uploadfiles/2018/06/20180614160652652.png},
+  2020.
+
+\bibitem{li2018flooding}
+Chang-He Li, Keng-Weng Lao, and Kam-Weng Tam.
+\newblock A flooding warning system based on rfid tag array for energy
+  facility.
+\newblock In {\em 2018 IEEE International Conference on RFID Technology \&
+  Application (RFID-TA)}, pages 1--4. IEEE, 2018.
+
+\bibitem{landaluce2020review}
+Hugo Landaluce, Laura Arjona, Asier Perallos, Francisco Falcone, Ignacio
+  Angulo, and Florian Muralter.
+\newblock A review of iot sensing applications and challenges using rfid and
+  wireless sensor networks.
+\newblock {\em Sensors}, 20(9):2495, 2020.
+
+\bibitem{rfidwork}
+easyRFID.
+\newblock Rfid technology: what it is, how it works and what it is for, 2022.
+
+\bibitem{duroc2022identification}
+Yvan Duroc.
+\newblock From identification to sensing: Rfid is one of the key technologies
+  in the iot field.
+\newblock {\em Sensors}, 22(19):7523, 2022.
+
+\bibitem{chawla2007overview}
+Vipul Chawla and Dong~Sam Ha.
+\newblock An overview of passive rfid.
+\newblock {\em IEEE Communications Magazine}, 45(9):11--17, 2007.
+
+\bibitem{rfidtype}
+AUCXIS rfidsolutions.
+\newblock Rfid – identify, read and process unique information, 2023.
+
+\bibitem{rfidpascla}
+easyrfid.
+\newblock \url{https://www.easyrfid.it/en/tecnologia-rfid/}, 2022.
+\newblock Accessed on February 15, 2023.
+
+\bibitem{rfidfreqs}
+rfid4u.
+\newblock Explore rfid basics and resources rfid basics - the rf in rfid, 2023.
+
+\bibitem{girard2018processing}
+ColetteM Girard.
+\newblock {\em Processing of remote sensing data}.
+\newblock Routledge, 2018.
+
+\bibitem{denis2020travaux}
+Antoine Denis.
+\newblock Travaux pratiques de t{\'e}l{\'e}d{\'e}tection spatiale i.
+\newblock 2020.
+
+\bibitem{mather2016classification}
+Paul Mather and Brandt Tso.
+\newblock {\em Classification methods for remotely sensed data}.
+\newblock CRC press, 2016.
+
+\bibitem{elachi1988spaceborne}
+Charles Elachi.
+\newblock Spaceborne radar remote sensing: applications and techniques.
+\newblock {\em New York}, 1988.
+
+\bibitem{zhou2021potential}
+Yuting Zhou, K~Colton Flynn, Prasanna~H Gowda, Pradeep Wagle, Shengfang Ma,
+  Vijaya~G Kakani, and Jean~L Steiner.
+\newblock The potential of active and passive remote sensing to detect frequent
+  harvesting of alfalfa.
+\newblock {\em International Journal of Applied Earth Observation and
+  Geoinformation}, 104:102539, 2021.
+
+\bibitem{heisig2022predicting}
+Johannes Heisig, Edward Olson, and Edzer Pebesma.
+\newblock Predicting wildfire fuels and hazard in a central european temperate
+  forest using active and passive remote sensing.
+\newblock {\em Fire}, 5(1):29, 2022.
+
+\bibitem{tong2019trends}
+Xiaoye Tong, Feng Tian, Martin Brandt, Yi~Liu, Wenmin Zhang, and Rasmus
+  Fensholt.
+\newblock Trends of land surface phenology derived from passive microwave and
+  optical remote sensing systems and associated drivers across the dry tropics
+  1992--2012.
+\newblock {\em Remote Sensing of Environment}, 232:111307, 2019.
+
+\bibitem{schroeder2019passive}
+Sarah~B Schroeder, Colleen Dupont, Leanna Boyer, Francis Juanes, and Maycira
+  Costa.
+\newblock Passive remote sensing technology for mapping bull kelp (nereocystis
+  luetkeana): a review of techniques and regional case study.
+\newblock {\em Global Ecology and Conservation}, 19:e00683, 2019.
+
+\bibitem{rsap}
+SKYRORA.
+\newblock What is satellite remote sensing?, 2021.
+
+\bibitem{ullo2021advances}
+Silvia~Liberata Ullo and Ganesh~Ram Sinha.
+\newblock Advances in iot and smart sensors for remote sensing and agriculture
+  applications.
+\newblock {\em Remote Sensing}, 13(13):2585, 2021.
+
+\bibitem{schulz2018machine}
+Karsten Schulz, Ronny H{\"a}nsch, and Uwe S{\"o}rgel.
+\newblock Machine learning methods for remote sensing applications: an
+  overview.
+\newblock {\em Earth resources and environmental remote sensing/GIS
+  applications IX}, 10790:1079002, 2018.
+
+\bibitem{chong2017review}
+Khai~Loong Chong, Kasturi~Devi Kanniah, Christine Pohl, and Kian~Pang Tan.
+\newblock A review of remote sensing applications for oil palm studies.
+\newblock {\em Geo-spatial Information Science}, 20(2):184--200, 2017.
+
+\bibitem{navalgund2007remote}
+Ranganath~R Navalgund, V~Jayaraman, and PS~Roy.
+\newblock Remote sensing applications: An overview.
+\newblock {\em current science}, pages 1747--1766, 2007.
+
+\bibitem{karthikeyan2020review}
+L~Karthikeyan, Ila Chawla, and Ashok~K Mishra.
+\newblock A review of remote sensing applications in agriculture for food
+  security: Crop growth and yield, irrigation, and crop losses.
+\newblock {\em Journal of Hydrology}, 586:124905, 2020.
+
+\bibitem{russell2010artificial}
+Stuart~J Russell.
+\newblock {\em Artificial intelligence a modern approach}.
+\newblock Pearson Education, Inc., 2010.
+
+\bibitem{christopher1999foundations}
+D~Manning Christopher and Sch{\"u}tze Hinrich.
+\newblock Foundations of statistical natural language processing.
+\newblock 1999.
+
+\bibitem{bishop2006pattern}
+Christopher~M Bishop and Nasser~M Nasrabadi.
+\newblock {\em Pattern recognition and machine learning}.
+\newblock Springer, 2006.
+
+\bibitem{shmueli2010explain}
+Galit Shmueli.
+\newblock To explain or to predict?
+\newblock 25(3):289--310, 2010.
+
+\bibitem{alpaydin2010introduction}
+Ethem Alpaydin.
+\newblock Introduction to machine learning, 2'nd ed, 2010.
+
+\bibitem{murphy2012machine}
+Kevin~P Murphy.
+\newblock {\em Machine learning: a probabilistic perspective}.
+\newblock MIT press, 2012.
+
+\bibitem{hastie2009elements}
+Trevor Hastie, Robert Tibshirani, Jerome~H Friedman, and Jerome~H Friedman.
+\newblock {\em The elements of statistical learning: data mining, inference,
+  and prediction}, volume~2.
+\newblock Springer, 2009.
+
+\bibitem{amershi2014power}
+Saleema Amershi, Maya Cakmak, William~Bradley Knox, and Todd Kulesza.
+\newblock Power to the people: The role of humans in interactive machine
+  learning.
+\newblock {\em Ai Magazine}, 35(4):105--120, 2014.
+
+\bibitem{jordan2015machine}
+Michael~I Jordan and Tom~M Mitchell.
+\newblock Machine learning: Trends, perspectives, and prospects.
+\newblock {\em Science}, 349(6245):255--260, 2015.
+
+\bibitem{lecun2015deep}
+Yann LeCun, Yoshua Bengio, Geoffrey Hinton, et~al.
+\newblock Deep learning. nature, 521 (7553), 436-444.
+\newblock {\em Google Scholar Google Scholar Cross Ref Cross Ref}, page~25,
+  2015.
+
+\bibitem{goodfellow2016deep}
+Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
+\newblock {\em Deep learning}.
+\newblock MIT press, 2016.
+
+\bibitem{krizhevsky2017imagenet}
+Alex Krizhevsky, Ilya Sutskever, and Geoffrey~E Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock {\em Communications of the ACM}, 60(6):84--90, 2017.
+
+\bibitem{vaswani2017attention}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones,
+  Aidan~N Gomez, {\L}ukasz Kaiser, and Illia Polosukhin.
+\newblock Attention is all you need.
+\newblock {\em Advances in neural information processing systems}, 30, 2017.
+
+\bibitem{graves2005framewise}
+Alex Graves and J{\"u}rgen Schmidhuber.
+\newblock Framewise phoneme classification with bidirectional lstm and other
+  neural network architectures.
+\newblock {\em Neural networks}, 18(5-6):602--610, 2005.
+
+\bibitem{mnih2015human}
+Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei~A Rusu, Joel Veness,
+  Marc~G Bellemare, Alex Graves, Martin Riedmiller, Andreas~K Fidjeland, Georg
+  Ostrovski, et~al.
+\newblock Human-level control through deep reinforcement learning.
+\newblock {\em nature}, 518(7540):529--533, 2015.
+
+\bibitem{sutton2018reinforcement}
+Richard~S Sutton and Andrew~G Barto.
+\newblock {\em Reinforcement learning: An introduction}.
+\newblock MIT press, 2018.
+
+\bibitem{settles2009active}
+Burr Settles.
+\newblock Active learning literature survey.
+\newblock 2009.
+
+\bibitem{pan2010survey}
+Sinno~Jialin Pan and Qiang Yang.
+\newblock A survey on transfer learning.
+\newblock {\em IEEE Transactions on knowledge and data engineering},
+  22(10):1345--1359, 2010.
+
+\end{thebibliography}

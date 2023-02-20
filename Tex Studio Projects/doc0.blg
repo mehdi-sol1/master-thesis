@@ -1,0 +1,80 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: doc0.aux
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+A level-1 auxiliary file: chap120.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: document.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: unsrt.bst
+Reallocating 'name_of_file' (item size: 1) to 4 items.
+Illegal, another \bibdata command---line 51 of file doc0.aux
+ : \bibdata
+ :         {ref}
+I'm skipping whatever remains of this command
+Illegal, another \bibstyle command---line 109 of file doc0.aux
+ : \bibstyle
+ :          {plain}
+I'm skipping whatever remains of this command
+Database file #1: ref.bib
+Repeated entry---line 193 of file ref.bib
+ : @article{lecun2015deep
+ :                       ,
+I'm skipping whatever remains of this entry
+Warning--entry type for "globalsign-iot" isn't style-file defined
+--line 953 of file ref.bib
+Warning--entry type for "netburner" isn't style-file defined
+--line 975 of file ref.bib
+Warning--entry type for "sustainablewebdesign" isn't style-file defined
+--line 993 of file ref.bib
+Warning--entry type for "iotdesignpro" isn't style-file defined
+--line 1013 of file ref.bib
+Warning--entry type for "daviteq" isn't style-file defined
+--line 1033 of file ref.bib
+Warning--empty booktitle in inproceedings
+Warning--empty journal in denis2020travaux
+Warning--empty journal in christopher1999foundations
+Warning--empty journal in shmueli2010explain
+Warning--empty journal in settles2009active
+You've used 57 entries,
+            1791 wiz_defined-function locations,
+            747 strings with 12647 characters,
+and the built_in function-call counts, 11412 in all, are:
+= -- 968
+> -- 510
+< -- 8
++ -- 197
+- -- 140
+* -- 652
+:= -- 1802
+add.period$ -- 171
+call.type$ -- 57
+change.case$ -- 47
+chr.to.int$ -- 0
+cite$ -- 62
+duplicate$ -- 520
+empty$ -- 1198
+format.name$ -- 140
+if$ -- 2581
+int.to.chr$ -- 0
+int.to.str$ -- 57
+missing$ -- 50
+newline$ -- 287
+num.names$ -- 54
+pop$ -- 231
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 243
+stack$ -- 0
+substring$ -- 559
+swap$ -- 107
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 5
+while$ -- 101
+width$ -- 59
+write$ -- 597
+(There were 3 error messages)
